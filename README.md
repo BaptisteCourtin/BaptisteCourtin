@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BaptisteCourtin
-- 👀 I’m interested in video games
+- 👀 I’m interested in video games and music
 - 🌱 I’m currently learning web developpement
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
